@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For DigitalIO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DigitalInput	KEYWORD1
+DigitalOutputAH	KEYWORD1
+DigitalOutputAL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Init	KEYWORD2
+Read	KEYWORD2
+On	KEYWORD2
+Off	KEYWORD2
+Toggle KEYWORD2
